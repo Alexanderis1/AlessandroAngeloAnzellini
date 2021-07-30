@@ -14,5 +14,9 @@ Mail - anzellinialessandroangelo@gmail.com
 
 [Progetto Bear](https://www.progettobear.it/public/covid.php)
 
+### Link Interessanti
+
+[Hexagons are the Bestagons](https://www.youtube.com/watch?v=thOifuHs6eY&t=266s&ab_channel=CGPGrey)
+
 ### Materiale Studenti
 
