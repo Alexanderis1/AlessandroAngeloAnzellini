@@ -33,6 +33,6 @@ Medicine really means repairing an already heavy damaged machine?
 
 > [Espressioni Letterali](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/equazioni_letterali.pdf)
 
-### Stuff I put there for utility
+### Stuff I put here for Utility
 
 >
