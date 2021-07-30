@@ -29,7 +29,7 @@ Medicine really means repairing an already heavy damaged machine?
 > [Chondroitin 6-Sulphate VS Ageing](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/s41380-021-01208-9.pdf)
 *Fields -* Molecular Psychiatry
 
-### Student's Material*(password protected)*
+### Student's Material *(password protected)*
 
 > [Espressioni Letterali](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/equazioni_letterali.pdf)
 
