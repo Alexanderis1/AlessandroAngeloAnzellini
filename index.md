@@ -1,8 +1,7 @@
 ## Alessandro Angelo Anzellini 
 
-You can use the [editor on GitHub](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linkedin](https://www.linkedin.com/in/alessandro-angelo-anzellini-033a62b1/)
+[Mail](anzellinialessandroangelo@gmail.com)
 
 ### Markdown
 
