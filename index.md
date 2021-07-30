@@ -16,7 +16,7 @@ Mail - anzellinialessandroangelo@gmail.com
 
 ### Link Interessanti
 
-[Hexagons are the Bestagons](https://www.youtube.com/watch?v=thOifuHs6eY&t=266s&ab_channel=CGPGrey)
+[Hexagons are the Bestagons](https://www.youtube.com/watch?v=thOifuHs6eY&ab_channel=CGPGrey)
 
 ### Materiale Studenti
 
