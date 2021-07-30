@@ -12,5 +12,7 @@ Mail - anzellinialessandroangelo@gmail.com
 
 [Thesis Source Code](https://github.com/Alexanderis1/Schema_Alignment_for_Alaska_Benchmark)
 
+[Progetto Bear](https://www.progettobear.it/public/covid.php)
+
 ### Materiale Studenti
 
