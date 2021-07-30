@@ -31,3 +31,5 @@ Medicine really means repairing an already heavy damaged machine?
 
 ### Materiale Studenti *(password protected)*
 
+> [Espressioni Letterali](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/equazioni_letterali.pdf)
+
