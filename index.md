@@ -4,7 +4,7 @@
 
 [Linkedin](https://www.linkedin.com/in/alessandro-angelo-anzellini-033a62b1/)
 
-[Mail](anzellinialessandroangelo@gmail.com)
+Mail - anzellinialessandroangelo@gmail.com
 
 [CV - Italian](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/AlessandroAngeloAnzellini-CV-Italian.pdf)
 
