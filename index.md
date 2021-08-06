@@ -15,6 +15,8 @@
 
 > [Progetto Bear](https://www.progettobear.it/public/covid.php)
 
+> [GreenPass check with Face Detection]()
+
 ### Interesting Links *(for everyone)*
 
 > [Hexagons are the Bestagons](https://www.youtube.com/watch?v=thOifuHs6eY&ab_channel=CGPGrey)
