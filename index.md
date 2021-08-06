@@ -15,7 +15,7 @@
 
 > [Progetto Bear](https://www.progettobear.it/public/covid.php)
 
-> [GreenPass check with Face Detection]()
+> [GreenPass check with Face Detection](https://alexanderis1.github.io/AlessandroAngeloAnzellini/greenpass)
 
 ### Interesting Links *(for everyone)*
 
