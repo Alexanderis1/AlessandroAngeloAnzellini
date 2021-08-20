@@ -45,3 +45,7 @@ Medicine really means repairing an already heavy damaged machine?
 > [Hippocampal Activity Stimulation](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/zorumski_Airan-07.pdf)
 
 > [5HTT & Personality](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/Effect_to_the_serotonin_transporter_gene_5-HTT_on_.pdf)
+
+> [Analysis, Nutrition, and Health Benefits of Tryptophan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158605/)
+
+> [Influence of Tryptophan and Serotonin on Mood and Cognition with a Possible Role of the Gut-Brain Axis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728667/)
