@@ -43,3 +43,5 @@ Medicine really means repairing an already heavy damaged machine?
 > [5HTT](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/CanliLesch3907_5HTT-Transporter.pdf) 
 
 > [Hippocampal Activity Stimulation](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/zorumski_Airan-07.pdf)
+
+> [5HTT & Personality](https://github.com/Alexanderis1/AlessandroAngeloAnzellini/raw/gh-pages/res/Effect_to_the_serotonin_transporter_gene_5-HTT_on_.pdf)
