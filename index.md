@@ -50,3 +50,7 @@ Medicine really means repairing an already heavy damaged machine?
 > [Analysis, Nutrition, and Health Benefits of Tryptophan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158605/)
 
 > [Influence of Tryptophan and Serotonin on Mood and Cognition with a Possible Role of the Gut-Brain Axis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728667/)
+
+> [Increase levels of Serotonin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/#!po=35.2273)
+
+> [Serotonergic System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017596/)
